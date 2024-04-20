@@ -1,0 +1,7 @@
+{
+	"name": "votl-docs",
+	"version": "0.1.0",
+	"dependencies": {
+		"docsify-cli": "^4.4.4"
+	}
+}

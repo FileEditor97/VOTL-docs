@@ -29,4 +29,9 @@ Setup logging with `/logs manage`. To enable log's category type `/logs manage e
 Certain channel and categories can be excluded from logs (such as message deletion) using `/logs exceptions add <#Channel>`.
 
 
-- ### 
+- ### Disable modules
+Certain modules, such as strikes or tickets, can be disabled. To do so type `/module disable`.
+
+
+- ### Embed color
+Set custom embed's color for most of the bot's messages using `/setup color <hex|rgb>`.

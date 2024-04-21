@@ -35,3 +35,7 @@ Certain modules, such as strikes or tickets, can be disabled. To do so type `/mo
 
 - ### Embed color
 Set custom embed's color for most of the bot's messages using `/setup color <hex|rgb>`.
+
+
+- ### Setup moderator role
+Some commands require the user to have certain access. The accesses are divided into several levels. See the **[Command Access](/access)** page for more information. 

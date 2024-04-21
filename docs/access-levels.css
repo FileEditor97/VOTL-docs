@@ -1,0 +1,33 @@
+.helper, .mod, .admin, .op, .owner {
+	position: relative;
+	padding: 0.25em 0.45em;
+	border-radius: 4px;
+	font-family: sans-serif;
+	font-size: 16px;
+	/* font-weight: 600; */
+}
+
+.helper {
+	background: #1D8147;
+	color: white;
+}
+
+.mod {
+	background: #0B64F4;
+	color: white;
+}
+
+.admin {
+	background: #D52020;
+	color: white;
+}
+
+.op {
+	background: #946723;
+	color: #ffffff;
+}
+
+.owner {
+	background: #dac938;
+	color: #000000;
+}

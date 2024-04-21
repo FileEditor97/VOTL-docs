@@ -4,6 +4,8 @@ Channel's name and user limit is stored for each user when changed and default n
 
 ## Setup commands
 
+!> Requires <span class="admin">Administrator</span> access.
+
 Name                             | Example                 | Usage
 -------------------------------- | ----------------------- | --------------------------
 **setup voice create**           | `/setup voice create`   | Creates new category and voice channel.

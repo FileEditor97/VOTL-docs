@@ -1,5 +1,7 @@
 ?> Logs are sent using Webhooks crated by this bot. For each event type new Webhook is created. You can rename, change avatar and location for those Webhooks in Integration settings.
 
+!> Requires <span class="admin">Administrator</span> access.
+
 ## Logging setup
 
 Name                             | Example                             | Usage

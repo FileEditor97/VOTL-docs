@@ -1,15 +1,7 @@
-
-
-
-
-
-
-
-
 ## Access Commands
 
-!> <span class="admin">Administrator</span> access required for adding/removing roles.   
-<span class="owner">Owner</span> access required for adding/removing operators.
+!> <span class="admin">Administrator</span> access required for adding/removing **roles**.   
+<span class="owner">Owner</span> access required for adding/removing **operators**.
 
 Name                             | Example                             | Usage
 -------------------------------- | ----------------------------------- | --------------------------

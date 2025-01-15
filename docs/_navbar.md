@@ -4,4 +4,4 @@
 - [Support](https://discord.gg/25K5S55wrU)
 - Language
   - [EN](/)
-<!--   - [РУС](/ru/) -->
+  - [РУС](/ru/)

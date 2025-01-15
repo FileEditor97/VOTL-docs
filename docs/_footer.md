@@ -1,1 +1,1 @@
-Copyright © 2024 | [@fileeditor](https://github.com/FileEditor97)
+Copyright © 2025 | [@fileeditor](https://github.com/FileEditor97)

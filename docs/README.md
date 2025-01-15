@@ -1,3 +1,6 @@
+!> **Documentation WIP.**  
+Information may not be accurate or lacking.
+
 ## VOTL bot
 
 Discord bot with multi-purpose functions for server moderation, management, ticketing and much more!
@@ -12,7 +15,7 @@ See the **[Getting Started](/getting-started)** guide for more details.
 - Role requests
 - Tickets
 - Private voice channels
-- Webhook managment
+- Webhook management
 - Logging (incl. messages)
 - Server groups
 - And more...

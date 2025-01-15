@@ -15,7 +15,7 @@ Some options may accept different types of inputs, like Roles and User mentions.
 Bot is ready for use once it has joined the server, but for some modules setup is required. 
 
 - ### Verification
-Setup verification role with `/verifyrole <@Role>`. Next, setup verfification panel by `/vfpanel text` and `/vfpanel image <image URL>`.
+Setup verification role with `/verifyrole <@Role>`. Next, setup verification panel by `/vfpanel text` and `/vfpanel image <image URL>`.
 Create panel with `/vfpanel create <#Channel>`.
 
 

@@ -1,10 +1,15 @@
-.helper, .mod, .admin, .op, .owner {
+.exception, .helper, .mod, .admin, .op, .owner {
 	position: relative;
 	padding: 0.25em 0.45em;
 	border-radius: 4px;
 	font-family: sans-serif;
 	font-size: 16px;
 	/* font-weight: 600; */
+}
+
+.exception {
+	background: #3f3f3f;
+	color: white;
 }
 
 .helper {

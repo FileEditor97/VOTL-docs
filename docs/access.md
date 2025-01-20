@@ -13,11 +13,14 @@ Name                             | Example                             | Usage
 
 ### Access Levels
 
+?> Higher levels inherit permissions from all previous levels. (ex, Moderators also are exceptions to strikes, can manage roles and tickets.)
+
 Access                                   | Target     | Description
 ---------------------------------------- | ---------- | -------------
-User                                     | -          | -
-<span class="helper">Helper</span>       | Role       | Helper - can interact with tickets and is exception for auto-punishments
+User                                     | -          | Everyone, default level
+<span class="exception">Exception</span> | Role       | Exceptions - are roles that will not receive auto-punishment from strikes
+<span class="helper">Helper</span>       | Role       | Helper - can interact with tickets and manage roles
 <span class="mod">Moderator</span>       | Role       | Moderator - can use moderation commands and other
-<span class="admin">Administrator</span> | Permission | Administrator - can manage bot and other
+<span class="admin">Administrator</span> | Permission | Administrator - can manage bot and other server settings
 <span class="op">Operator</span>         | User       | Server Operator - can manage server Groups
 <span class="owner">Owner</span>         | -          | Server owner

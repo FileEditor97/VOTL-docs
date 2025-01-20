@@ -1,5 +1,5 @@
-Verification is just a button, that assigns @Role.  
-There are some commands for customize verification panel (embed).
+Verification is a simple button, that assigns @Role.  
+There are some commands for customizing verification panel (embed).
 
 ## Setup commands
 

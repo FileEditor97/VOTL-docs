@@ -1,5 +1,7 @@
 - [Getting Started](/getting-started.md)
-- [Custom Voice Channels](/custom-voice.md)
+- [Config](/config.md)
 - [Logging](/logging.md)
 - [Command Access](/access.md)
 - [Verification](/verification.md)
+- [Moderation](/moderation.md)
+- [Custom Voice Channels](/custom-voice.md)

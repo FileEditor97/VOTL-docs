@@ -10,6 +10,12 @@ Syntax            | Definition
 
 Some options may accept different types of inputs, like Roles and User mentions.
 
+## Language
+
+?> For almost all messages bot uses language set inside Community tab of Discord server, or language set by the user in theirs Discord client (settings).  
+If language is not available, by default, English is used.  
+![Community language](_images/community-language.png)
+
 ## Basic Configuration
 
 Bot is ready for use once it has joined the server, but for some modules setup is required. 

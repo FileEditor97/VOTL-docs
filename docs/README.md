@@ -1,4 +1,4 @@
-!> **Documentation WIP.**  
+!> **Documentation work in progress!**  
 Information may not be accurate or lacking.
 
 ## VOTL bot
